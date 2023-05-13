@@ -1,6 +1,7 @@
 - 👋 Hi, I am Enrie John Edem
-- 👀 I’m interested in Android Development , Java , Arduino
-- 🌱 I’m currently working as a Software Developer working with PHP Web Development using Laravel Framework
+- 🎓Bachelor of Science in Information Technology
+- 👀 I’m interested in PHP ,Android Development , Java , Arduino
+- 👔 I’m currently working as a Software Developer working with PHP Web Development using Laravel Framework
 - 📫 How to reach me in my email enriejohnedem@gmail.com or my Linkedin https://www.linkedin.com/in/enrie-john-edem-6073a8223/
 
 <!---
